@@ -29,8 +29,11 @@
 
 ### Frontend:
 * npm create vite@latest
+* yarn add @apollo/client graphql
 
 ## Notas:
 * RestFull Controllers?
   * GraphQL Resolvers?
 * playground: https://studio.apollographql.com/sandbox/explorer
+* mutation, operações de alteração, remoção e criação de dados
+* fetchMore - paginação
